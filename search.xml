@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/blinkfox/2023/11/11/hello-world/"/>
+      <url>/blinkfox/2023/11/11/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>typora-vue-theme主题介绍</title>
+      <link href="/blinkfox/2018/09/07/my-first-blog/"/>
+      <url>/blinkfox/2018/09/07/my-first-blog/</url>
+      
+        <content type="html"><![CDATA[<h1 id="重装系统流程"><a href="#重装系统流程" class="headerlink" title="重装系统流程"></a>重装系统流程</h1><h2 id="1-工具准备"><a href="#1-工具准备" class="headerlink" title="1.工具准备"></a>1.工具准备</h2><hr><p>微软官方安装工具下载：<a href="https://www.microsoft.com/zh-cn/software-download">https://www.microsoft.com/zh-cn/software-download</a><br>Rufus刻盘工具下载：rufus.ie<br>Ventoy工具下载：ventoy.net<br>Windows系统镜像下载:next.itellyou.cn</p><hr><p>驱动下载地址<br>联想    <a href="https://newsupport.lenovo.com.cn/notebook.html">https://newsupport.lenovo.com.cn/notebook.html</a><br>戴尔&#x2F; 外星人  <a href="https://www.dell.com/support/home/zh-cn/Products?app=drivers">https://www.dell.com/support/home/zh-cn/Products?app=drivers</a><br>惠普   <a href="https://support.hp.com/cn-zh/drivers">https://support.hp.com/cn-zh/drivers</a><br>华硕 &#x2F; ROG  <a href="https://www.asus.com.cn/support/Download-Center/">https://www.asus.com.cn/support/Download-Center/</a><br>微星   <a href="https://www.msi.cn/support/download/">https://www.msi.cn/support/download/</a><br>机械革命  <a href="https://www.mechrevo.com/service/">https://www.mechrevo.com/service/</a><br>神舟  <a href="http://archive.hasee.com/Chinese/download/computer.aspx">http://archive.hasee.com/Chinese/download/computer.aspx</a><br>七彩虹 <a href="https://www.colorful.cn/product.aspx?mid=158">https://www.colorful.cn/product.aspx?mid=158</a><br>机械师  <a href="https://www.machenike.com/offline/driverUnit">https://www.machenike.com/offline/driverUnit</a><br>雷神  <a href="https://www.thunderobot.com/service/download.html">https://www.thunderobot.com/service/download.html</a><br>宏碁  <a href="https://www.acer.com.cn/support.html?type=1">https://www.acer.com.cn/support.html?type=1</a></p><hr><h2 id="2-流程"><a href="#2-流程" class="headerlink" title="2.流程"></a>2.流程</h2><h3 id="2-1-next-itellyou-cn下载windows镜像"><a href="#2-1-next-itellyou-cn下载windows镜像" class="headerlink" title="2.1 next.itellyou.cn下载windows镜像"></a>2.1 next.itellyou.cn下载windows镜像</h3><p><img src="C:\Users\jack\OneDrive\图片\屏幕快照\1.png"></p><p><img src="/blinkfox/my-first-blog%5C1.png"></p><h3 id="2-2判断电脑是否适合这个系统"><a href="#2-2判断电脑是否适合这个系统" class="headerlink" title="2.2判断电脑是否适合这个系统"></a>2.2判断电脑是否适合这个系统</h3><p>去笔记本电脑官网查这个型号的机器有什么版本驱动</p><p><img src="/blinkfox/my-first-blog%5C2.png"></p><h3 id="2-3-使用迅雷下载镜像"><a href="#2-3-使用迅雷下载镜像" class="headerlink" title="2.3 使用迅雷下载镜像"></a>2.3 使用迅雷下载镜像</h3><p><img src="/blinkfox/my-first-blog%5C3.png"></p><h3 id="2-4-用管理员模式打开reufs"><a href="#2-4-用管理员模式打开reufs" class="headerlink" title="2.4 用管理员模式打开reufs"></a>2.4 用管理员模式打开reufs</h3><p>​    <img src="my-first-blog\4.png" style="zoom:50%;" /></p><img src="my-first-blog\5.png" style="zoom:67%;" /><p><img src="/blinkfox/my-first-blog%5C6.png"></p><h3 id="2-5-进入笔记本bios，设置u盘为最先启动"><a href="#2-5-进入笔记本bios，设置u盘为最先启动" class="headerlink" title="2.5 进入笔记本bios，设置u盘为最先启动"></a>2.5 进入笔记本bios，设置u盘为最先启动</h3><ol><li>开机或重启后按F2</li><li>点击more settings,进入高级管理界面</li><li>按F9先还原一边出厂设置</li><li>进入boot目录把u盘设置为第一启动项</li></ol><img src="my-first-blog\7.png" style="zoom:50%;" /><p>5，按F10保存并重新启动</p><h3 id="2-6-安装系统"><a href="#2-6-安装系统" class="headerlink" title="2.6 安装系统"></a>2.6 安装系统</h3><img src="my-first-blog\8.png" style="zoom: 80%;" /><p>​                             <img src="E:\博客\hexo\source\_posts\images\9.png" style="zoom:80%;" /></p><p><img src="/blinkfox/my-first-blog%5C10.png"></p><h3 id="2-7-进入系统界面"><a href="#2-7-进入系统界面" class="headerlink" title="2.7 进入系统界面"></a>2.7 进入系统界面</h3><ol><li>联网下载联想电脑管家自动打驱动，记得要先下载好网卡驱动（2.2）</li></ol><hr><h3 id="2-8-按快捷键进入不了bios"><a href="#2-8-按快捷键进入不了bios" class="headerlink" title="2.8 按快捷键进入不了bios"></a>2.8 按快捷键进入不了bios</h3><p><strong>方法一：使用快捷键</strong></p><p>开机时按下F2、F10、Delete或者Esc键，这些键可能因计算机品牌而有所不同，具体请查看计算机说明书或者品牌网站。</p><p><strong>方法二：使用电源选项</strong></p><ol><li>在Windows 10系统中，按下Win + I键打开“设置”菜单。</li><li>点击“更新和安全性”，然后选择“恢复”选项。</li><li>在“高级启动”下点击“立即重新启动”。</li><li>选择“疑难解答” -&gt; “高级选项” -&gt; “UEFI固件设置”。</li><li>点击“重新启动”按钮，电脑将会进入BIOS界面。</li></ol><p><strong>方法三：使用Windows</strong> 10设置菜单</p><ol><li>打开开始菜单，点击“设置”图标（齿轮状图标）。</li><li>点击“更新和安全”选项。</li><li>选择“恢复”选项，在“高级启动”下点击“立即重新启动”。</li><li>选择“疑难解答” -&gt; “高级选项” -&gt; “UEFI固件设置”。</li><li>点击“重新启动”按钮，电脑将会进入BIOS界面。</li><li>如果您使用的是具体的品牌电脑，如联想、戴尔、惠普等，可能会有特定的进入BIOS的方法，请参考对应品牌的说明书或者品牌网站以获取更准确的信息。</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Markdown </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Typora </tag>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
